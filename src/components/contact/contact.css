@@ -1,0 +1,41 @@
+.contact__icons {
+    display: flex;
+    justify-content: center;
+    gap: 80px;
+    margin-top: 15px;
+    flex-wrap: wrap; /* Allows wrapping of icons on smaller screens */
+}
+
+.contact__icons i {
+    font-size: 2rem;
+    color: black;
+    transition: color 0.3s ease, transform 0.3s ease;
+}
+
+.contact__icons i:hover {
+    color: #0073b1;
+    transform: scale(1.1);
+}
+
+.section__subtitle.contact {
+    margin-bottom: 0 !important;
+}
+
+/* Responsive adjustments */
+@media screen and (max-width: 768px) {
+    .contact__icons {
+        gap: 40px; /* Reduce space between icons on smaller screens */
+    }
+    .contact__icons i {
+        font-size: 1.5rem; /* Smaller icon size */
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .contact__icons {
+        gap: 20px; /* Even smaller gap for very small screens */
+    }
+    .contact__icons i {
+        font-size: 1.2rem; /* Even smaller icon size */
+    }
+}
