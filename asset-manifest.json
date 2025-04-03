@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/AdinaMar/portofolioV2.git/static/css/main.f5f4bc1c.css",
-    "main.js": "/AdinaMar/portofolioV2.git/static/js/main.cc7754d5.js",
-    "static/js/488.b5fb6f0b.chunk.js": "/AdinaMar/portofolioV2.git/static/js/488.b5fb6f0b.chunk.js",
-    "static/media/edw.PNG": "/AdinaMar/portofolioV2.git/static/media/edw.bdcbd0a917e7ebecf215.PNG",
-    "static/media/aer.PNG": "/AdinaMar/portofolioV2.git/static/media/aer.a5ac24b9e0968e0930fa.PNG",
-    "static/media/email.PNG": "/AdinaMar/portofolioV2.git/static/media/email.25fbdeee98e53e38c15d.PNG",
-    "static/media/AdinaMartiniucCV.pdf": "/AdinaMar/portofolioV2.git/static/media/AdinaMartiniucCV.08fe46a20afad814bbf3.pdf",
-    "static/media/apped (1).jpeg": "/AdinaMar/portofolioV2.git/static/media/apped (1).6d8ebc81fd42b1d13d55.jpeg",
-    "static/media/imgcv.png": "/AdinaMar/portofolioV2.git/static/media/imgcv.5fa55ec5bdddcf4704f0.png",
-    "static/media/endo.PNG": "/AdinaMar/portofolioV2.git/static/media/endo.c6d29cea9e28c45d6d0e.PNG",
-    "static/media/AdinaMartiniuc.pdf": "/AdinaMar/portofolioV2.git/static/media/AdinaMartiniuc.1b5d2eca3ebb61d0010c.pdf",
-    "static/media/alien2.avif": "/AdinaMar/portofolioV2.git/static/media/alien2.8ea9c5b4aedea253fb2b.avif",
-    "index.html": "/AdinaMar/portofolioV2.git/index.html",
-    "main.f5f4bc1c.css.map": "/AdinaMar/portofolioV2.git/static/css/main.f5f4bc1c.css.map",
-    "main.cc7754d5.js.map": "/AdinaMar/portofolioV2.git/static/js/main.cc7754d5.js.map",
-    "488.b5fb6f0b.chunk.js.map": "/AdinaMar/portofolioV2.git/static/js/488.b5fb6f0b.chunk.js.map"
+    "main.css": "/portofolioV2/static/css/main.dbb899bf.css",
+    "main.js": "/portofolioV2/static/js/main.c4dc8153.js",
+    "static/js/488.b5fb6f0b.chunk.js": "/portofolioV2/static/js/488.b5fb6f0b.chunk.js",
+    "static/media/edw.PNG": "/portofolioV2/static/media/edw.bdcbd0a917e7ebecf215.PNG",
+    "static/media/aer.PNG": "/portofolioV2/static/media/aer.a5ac24b9e0968e0930fa.PNG",
+    "static/media/email.PNG": "/portofolioV2/static/media/email.25fbdeee98e53e38c15d.PNG",
+    "static/media/AdinaMartiniucCV.pdf": "/portofolioV2/static/media/AdinaMartiniucCV.08fe46a20afad814bbf3.pdf",
+    "static/media/apped (1).jpeg": "/portofolioV2/static/media/apped (1).6d8ebc81fd42b1d13d55.jpeg",
+    "static/media/imgcv.png": "/portofolioV2/static/media/imgcv.5fa55ec5bdddcf4704f0.png",
+    "static/media/endo.PNG": "/portofolioV2/static/media/endo.c6d29cea9e28c45d6d0e.PNG",
+    "static/media/AdinaMartiniuc.pdf": "/portofolioV2/static/media/AdinaMartiniuc.1b5d2eca3ebb61d0010c.pdf",
+    "static/media/alien2.avif": "/portofolioV2/static/media/alien2.8ea9c5b4aedea253fb2b.avif",
+    "index.html": "/portofolioV2/index.html",
+    "main.dbb899bf.css.map": "/portofolioV2/static/css/main.dbb899bf.css.map",
+    "main.c4dc8153.js.map": "/portofolioV2/static/js/main.c4dc8153.js.map",
+    "488.b5fb6f0b.chunk.js.map": "/portofolioV2/static/js/488.b5fb6f0b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f5f4bc1c.css",
-    "static/js/main.cc7754d5.js"
+    "static/css/main.dbb899bf.css",
+    "static/js/main.c4dc8153.js"
   ]
 }
