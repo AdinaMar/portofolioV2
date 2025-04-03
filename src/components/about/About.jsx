@@ -1,8 +1,8 @@
 import react from "react";
 import "./about.css";
 import imgcv from "../../assets/imgcv.png";
-import AdinaMartiniucCV from "../../assets/AdinaMartiniucCV.pdf";
-import AdinaMartiniuc from "../../assets/AdinaMartiniuc.pdf"
+
+import AdinaMartiniucCV from "../../assets/AdinaMartiniucCV.pdf"
 import Info from "./Info";
 
 const About = () => {
@@ -31,7 +31,7 @@ const About = () => {
          
        </ul>
                 
-                <a download="" href={AdinaMartiniuc} className="button button-about">Download CV</a>
+                <a download="" href={AdinaMartiniucCV} className="button button-about">Download CV</a>
             </div>
             </div>
         </section>
